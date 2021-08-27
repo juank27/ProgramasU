@@ -10,7 +10,7 @@ while(numero < 10):
 """
 #funciones
 
-def ciclo(numero, numero_corte):
+def ciclo(numero):
    while(numero < 10):
       print(numero)
       numero = numero + 1
